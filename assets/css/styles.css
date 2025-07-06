@@ -178,6 +178,7 @@
             background-color: var(--text-dark);
             position: relative;
             transition: var(--transition);
+            color: white;
         }
 
         .hamburger::before,
@@ -188,6 +189,7 @@
             height: 3px;
             background-color: var(--text-dark);
             transition: var(--transition);
+            color: white;
         }
 
         .hamburger::before {
